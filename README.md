@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 
-<!--
-**nmcewen/nmcewen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a husband and father, a proud new zealander and technology enthusiast
 
 - 🔭 I’m currently working on my health and fitness
@@ -15,7 +12,6 @@ I am a husband and father, a proud new zealander and technology enthusiast
 - 📫 How to reach me: https://www.linkedin.com/in/nmcewen/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
