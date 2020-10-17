@@ -15,4 +15,4 @@ I am a husband and father, a proud new zealander and technology enthusiast
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=nmcewen&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=nmcewen&theme=tokyonight" />
