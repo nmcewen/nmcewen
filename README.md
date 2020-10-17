@@ -15,6 +15,4 @@ I am a husband and father, a proud new zealander and technology enthusiast
 
 
 
-## [![nmcewen's github stats](https://github-readme-stats.vercel.app/api?username=nmcewen)](https://github.com/nmcewen/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=nmcewen&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=nmcewen&theme=radical" />
